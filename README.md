@@ -1,2 +1,1 @@
-# Mavera-New-Bots
-Yeni geçtiğim mongooseli tüm botlarım!
+# 50 STAR + 5 FORK MODERASYON BOTU, 70 STAR + 10 FORKA TUM BOTLARIMI PAYLASIYORUM!
