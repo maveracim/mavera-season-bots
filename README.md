@@ -1,6 +1,7 @@
 # 1913'te kullandığım botları 100 starda paylaşacağım. (Yan hesap, daha da yükselmeyecek.)
 # Moderasyon
 ![mod_puan](https://user-images.githubusercontent.com/81289423/177693595-d0eec98b-0137-484b-a0c6-d8c0374579f8.png)
+![mod_event](https://user-images.githubusercontent.com/81289423/177694512-06fa238b-c7c1-40f6-bcfc-e11ab472aa4c.png)
 ![mod_denetim](https://user-images.githubusercontent.com/81289423/177694131-20d94458-bc57-4777-a891-2bb62619c78f.png)
 ![mod_yetki](https://user-images.githubusercontent.com/81289423/177694120-4a87d11f-6ec7-46fe-bd82-aa668517bc59.png)
 ![mod_ekle](https://user-images.githubusercontent.com/81289423/177292737-620b7bf9-488b-4ca5-95ed-627600e020ff.png)
