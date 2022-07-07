@@ -1,5 +1,8 @@
-# 90 starda moderasyon, 100 starda database ve guard botlarını güncel kullandığım şekilde paylaşacağım. Ayrıca bu botları 1913'te kullanıyorum, gelip kendi gözünüzle görebilirsiniz.
+# 1913'te kullandığım botları 100 starda paylaşacağım. Yine yan hesap olduğu için 100'e çıktı, kusura bakmayın.
 # Moderasyon
+![mod_puan](https://user-images.githubusercontent.com/81289423/177693595-d0eec98b-0137-484b-a0c6-d8c0374579f8.png)
+![mod_denetim](https://user-images.githubusercontent.com/81289423/177694131-20d94458-bc57-4777-a891-2bb62619c78f.png)
+![mod_yetki](https://user-images.githubusercontent.com/81289423/177694120-4a87d11f-6ec7-46fe-bd82-aa668517bc59.png)
 ![mod_ekle](https://user-images.githubusercontent.com/81289423/177292737-620b7bf9-488b-4ca5-95ed-627600e020ff.png)
 ![mod_koruma](https://user-images.githubusercontent.com/81289423/177292746-27eb7ec5-94e4-4f41-b7d3-73768c97b40e.png)
 ![mod_log1](https://user-images.githubusercontent.com/81289423/177292749-703e9941-7065-4e82-b88e-5618f17c3e23.png)
