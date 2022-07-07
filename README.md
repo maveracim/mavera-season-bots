@@ -1,4 +1,4 @@
-# 1913'te kullandığım botları 100 starda paylaşacağım. Yine yan hesap olduğu için 100'e çıktı, kusura bakmayın.
+# 1913'te kullandığım botları 100 starda paylaşacağım. (Yan hesap, daha da yükselmeyecek.)
 # Moderasyon
 ![mod_puan](https://user-images.githubusercontent.com/81289423/177693595-d0eec98b-0137-484b-a0c6-d8c0374579f8.png)
 ![mod_denetim](https://user-images.githubusercontent.com/81289423/177694131-20d94458-bc57-4777-a891-2bb62619c78f.png)
